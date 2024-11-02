@@ -36,13 +36,13 @@ Before you get started, ensure you have the following installed:
 
 ### Clone the Repository
 
-Clone this repository to your local machine using the following command:
+>Clone this repository to your local machine using the following command:
 
 Clone the Repository
 
 Clone this repository to your local machine using the following command:
 
-git clone https://github.com/your-username/JHUB-Rich-Web-App.git
+git clone https://github.com/your-username/JHUB-Rich-Web-App.git<
 
 Navigate to the project directory:
 
