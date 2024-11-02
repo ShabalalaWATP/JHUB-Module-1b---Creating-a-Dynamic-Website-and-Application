@@ -40,6 +40,7 @@ Clone this repository to your local machine using the following command:
 
 Navigate to the project directory:
 >cd JHB-Module-1b---Creating-a-Dynamic-Website-and-Application
+
 >cd uk-police-explorer
 
 2. Install Dependencies
