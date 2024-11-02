@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Leaflet map styles */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  background: #fff;
+}
+
+.leaflet-popup-content-wrapper {
+  background: #fff;
+  color: #000;
+}
+
+/* Dark mode styles for Leaflet */
+.dark .leaflet-container {
+  background: #303030;
+}
+
+.dark .leaflet-tile {
+  filter: brightness(0.7) invert(1) hue-rotate(180deg);
+}
+
+.dark .leaflet-popup-content-wrapper {
+  background: #1f2937;
+  color: #d1d5db;
+}
