@@ -88,17 +88,23 @@ The application should now be running at http://localhost:3000.
 
   - components/: Reusable components like ThemeToggle and CrimeMap.
 
-  - App.jsx: The main application component.
+    - App.jsx: The main application component.
 
-  - App.css: CSS specific to the App component.
+    - App.css: CSS specific to the App component.
 
-  - index.css: Global CSS styles.
+    - index.css: Global CSS styles.
 
-  - main.jsx: Entry point for rendering the React application.
+    - main.jsx: Entry point for rendering the React application.
 
 - .gitignore: Specifies files and directories to be ignored by Git.
 
+- README.md
+
+- eslint.config.js
+
 - index.html: The main HTML file.
+
+- package-lock.json
 
 - package.json: Lists project dependencies and scripts.
 
