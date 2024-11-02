@@ -34,32 +34,19 @@ Before you get started, ensure you have the following installed:
 
 ## Installation and Setup
 
-### Clone the Repository
-
->Clone this repository to your local machine using the following command:
-
-Clone the Repository
-
+### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
-
-git clone https://github.com/your-username/JHUB-Rich-Web-App.git<
-
+>git clone https://github.com/your-username/JHUB-Rich-Web-App.git
 Navigate to the project directory:
+>cd JHUB-Rich-Web-App
 
-cd JHUB-Rich-Web-App
-
-Install Dependencies
-
+2. Install Dependencies
 Install the required dependencies using npm:
+>npm install
 
-npm install
-
-Start the Development Server
-
+3. Start the Development Server
 Run the following command to start the development server:
-
-npm run dev
-
+>npm run dev
 The application should now be running at http://localhost:3000.
 
 Usage
