@@ -37,6 +37,7 @@ Before you get started, ensure you have the following installed:
 ### 1. Clone the Repository
 Clone this repository to your local machine using the following command:
 >git clone [https://github.com/ShabalalaWATP/JHUB-Module-1b---Creating-a-Dynamic-Website-and-Application.git]
+
 Navigate to the project directory:
 >cd JHUB-Rich-Web-App
 
