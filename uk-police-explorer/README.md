@@ -51,7 +51,7 @@ Install the required dependencies using npm:
 Run the following command to start the development server:
 >npm run dev
 
-The application should now be running at http://localhost:3000.
+The application should now be running at http://localhost:5173
 
 ## Usage
 
