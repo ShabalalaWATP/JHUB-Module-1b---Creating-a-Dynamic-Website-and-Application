@@ -100,13 +100,13 @@ The application should now be running at http://localhost:3000.
 
 - index.html: The main HTML file.
 
-package.json: Lists project dependencies and scripts.
+- package.json: Lists project dependencies and scripts.
 
-postcss.config.js: Configuration for PostCSS.
+- postcss.config.js: Configuration for PostCSS.
 
-tailwind.config.js: Configuration for Tailwind CSS.
+- tailwind.config.js: Configuration for Tailwind CSS.
 
-vite.config.js: Configuration for Vite.
+- vite.config.js: Configuration for Vite.
 
 ## Known Issues and Future Improvements
 
