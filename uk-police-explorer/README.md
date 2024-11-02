@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the UK Police Data Explorer! This is a Rich Web Application created as part of JHUB Module 1B - "Creating a Rich Web Application." The application allows users to interact with the UK Police API to explore police force data, local neighbourhoods, crime statistics, and more for England, Wales, and Northern Ireland. The data is presented in an easy-to-use and visually engaging manner, with interactive maps and charts.
+Welcome to the UK Police Data Explorer! This is a Rich Web Application created as part of JHUB Module 1B - "Creating a Dynamic Website and Application." The application allows users to interact with the UK Police API to explore police force data, local neighbourhoods, crime statistics, and more for England, Wales, and Northern Ireland. The data is presented in an easy-to-use and visually engaging manner with interactive maps and charts.
 
 ## Features
 
@@ -15,7 +15,7 @@ Welcome to the UK Police Data Explorer! This is a Rich Web Application created a
 - Responsive design for seamless use across different devices.
 - Real-time data updates from the UK Police API.
 
-## What is Looks Like
+## What the Website Looks Like
 
 ![image](https://github.com/user-attachments/assets/d0f7a8d8-0c2a-4751-bd37-fdd6afb10eab)
 ![image](https://github.com/user-attachments/assets/d085ba86-b1ed-4a9f-87a7-a0aaaba1c2e4)
