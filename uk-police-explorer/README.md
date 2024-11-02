@@ -18,7 +18,7 @@ Welcome to the UK Police Data Explorer! This is a Rich Web Application created a
 ## What is Looks Like
 
 ![image](https://github.com/user-attachments/assets/f348f642-a7e3-4f5c-a3cc-ffd0fe4c7d0c)
-![image](https://github.com/user-attachments/assets/ab238e12-9df8-4f96-ae09-c18b9a803190)
+![image](https://github.com/user-attachments/assets/db13022e-09a6-4b82-80c7-37228e3bcf8b)
 ![image](https://github.com/user-attachments/assets/eaa2092b-c0aa-43a3-b32a-1e73be3a1ff7)
 
 
