@@ -39,7 +39,7 @@ Clone this repository to your local machine using the following command:
 >git clone [https://github.com/ShabalalaWATP/JHUB-Module-1b---Creating-a-Dynamic-Website-and-Application.git]
 
 Navigate to the project directory:
->cd JHUB-Rich-Web-App
+>cd JHB-Module-1b---Creating-a-Dynamic-Website-and-Application
 
 2. Install Dependencies
 Install the required dependencies using npm:
