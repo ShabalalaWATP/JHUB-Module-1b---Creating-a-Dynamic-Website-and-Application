@@ -74,7 +74,7 @@ The application should now be running at http://localhost:3000.
 - UK Police API: Provides the real-time data for the application.
 
 
-##Project Structure
+## Project Structure
 
 - public/: Contains static assets like images and SVG files.
 
