@@ -50,55 +50,55 @@ Run the following command to start the development server:
 
 The application should now be running at http://localhost:3000.
 
-Usage
+## Usage
 
-Select a Police Force: Start by selecting a police force from the dropdown list. The application will then display all neighbourhoods available for that force.
+1. **Select a Police Force:** Start by selecting a police force from the dropdown list. The application will then display all neighbourhoods available for that force.
 
-Explore Neighbourhoods: Once a neighbourhood is selected, detailed information is displayed, including the neighbourhood policing team, upcoming community events, crime statistics, and boundary maps.
+2. **Explore Neighbourhoods:** Once a neighbourhood is selected, detailed information is displayed, including the neighbourhood policing team, upcoming community events, crime statistics, and boundary maps.
 
-View Crime Statistics: Use the interactive map and bar charts to visualize crime data for the selected area.
+3. **View Crime Statistics:** Use the interactive map and bar charts to visualize crime data for the selected area.
 
-Technologies Used
 
-React: A JavaScript library for building user interfaces.
+## Technologies Used
 
-Tailwind CSS: A utility-first CSS framework for styling.
+- React: A JavaScript library for building user interfaces.
 
-Recharts: A library for creating data visualizations.
+- Tailwind CSS: A utility-first CSS framework for styling.
 
-React Leaflet: For displaying interactive maps using Leaflet.
+- Recharts: A library for creating data visualizations.
 
-Vite: A fast build tool for modern web development.
+- React Leaflet: For displaying interactive maps using Leaflet.
 
-UK Police API: Provides the real-time data for the application.
+- Vite: A fast build tool for modern web development.
 
-Project Structure
+- UK Police API: Provides the real-time data for the application.
 
-public/: Contains static assets like images and SVG files.
 
-vite.svg: Vite logo.
+##Project Structure
 
-src/: Contains the main application code.
+- public/: Contains static assets like images and SVG files.
 
-assets/: Static assets like images.
+  - vite.svg: Vite logo.
 
-react.svg: React logo.
+- src/: Contains the main application code.
 
-components/: Reusable components like ThemeToggle and CrimeMap.
+  - assets/: Static assets like images.
 
-App.jsx: The main application component.
+    - react.svg: React logo.
 
-App.css: CSS specific to the App component.
+  - components/: Reusable components like ThemeToggle and CrimeMap.
 
-index.css: Global CSS styles.
+  - App.jsx: The main application component.
 
-main.jsx: Entry point for rendering the React application.
+  - App.css: CSS specific to the App component.
 
-test.js: Contains tests for the application.
+  - index.css: Global CSS styles.
 
-.gitignore: Specifies files and directories to be ignored by Git.
+  - main.jsx: Entry point for rendering the React application.
 
-index.html: The main HTML file.
+- .gitignore: Specifies files and directories to be ignored by Git.
+
+- index.html: The main HTML file.
 
 package.json: Lists project dependencies and scripts.
 
