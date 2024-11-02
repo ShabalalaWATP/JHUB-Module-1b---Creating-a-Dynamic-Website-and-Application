@@ -15,9 +15,12 @@ Welcome to the UK Police Data Explorer! This is a Rich Web Application created a
 - Responsive design for seamless use across different devices.
 - Real-time data updates from the UK Police API.
 
-## Demo
+## What is Looks Like
 
-[Optional: Insert a link to a live demo if you have deployed it.]
+![image](https://github.com/user-attachments/assets/f348f642-a7e3-4f5c-a3cc-ffd0fe4c7d0c)
+![image](https://github.com/user-attachments/assets/ab238e12-9df8-4f96-ae09-c18b9a803190)
+![image](https://github.com/user-attachments/assets/eaa2092b-c0aa-43a3-b32a-1e73be3a1ff7)
+
 
 ## Prerequisites
 
