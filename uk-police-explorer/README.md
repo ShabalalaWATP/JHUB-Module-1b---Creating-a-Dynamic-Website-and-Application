@@ -17,9 +17,11 @@ Welcome to the UK Police Data Explorer! This is a Rich Web Application created a
 
 ## What is Looks Like
 
-![image](https://github.com/user-attachments/assets/f348f642-a7e3-4f5c-a3cc-ffd0fe4c7d0c)
-![image](https://github.com/user-attachments/assets/db13022e-09a6-4b82-80c7-37228e3bcf8b)
-![image](https://github.com/user-attachments/assets/eaa2092b-c0aa-43a3-b32a-1e73be3a1ff7)
+![image](https://github.com/user-attachments/assets/d0f7a8d8-0c2a-4751-bd37-fdd6afb10eab)
+![image](https://github.com/user-attachments/assets/d085ba86-b1ed-4a9f-87a7-a0aaaba1c2e4)
+![image](https://github.com/user-attachments/assets/117f32ab-8a57-4eac-9c76-a4af2bb4ce6c)
+![image](https://github.com/user-attachments/assets/2d3e0726-6730-41fa-87bb-6fb13dd8c423)
+
 
 
 ## Prerequisites
