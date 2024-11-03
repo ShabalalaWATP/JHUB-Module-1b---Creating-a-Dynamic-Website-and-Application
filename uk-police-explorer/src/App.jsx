@@ -1,4 +1,4 @@
-// App.jsx
+// App.jsx file
 import { useState, useEffect } from 'react';
 import { ThemeToggle } from './components/ThemeToggle';
 import { BarChart, Bar, XAxis, YAxis, Tooltip, Legend, ResponsiveContainer } from 'recharts';
